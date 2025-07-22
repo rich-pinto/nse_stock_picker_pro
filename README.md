@@ -1,0 +1,1 @@
+# nse_stock_picker_pro
